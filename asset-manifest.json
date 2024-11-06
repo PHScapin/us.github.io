@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/us.github.io/static/css/main.7dad7b04.css",
+    "main.css": "/us.github.io/static/css/main.9532c4d6.css",
     "main.js": "/us.github.io/static/js/main.f7cbcd4f.js",
     "static/js/453.57978b45.chunk.js": "/us.github.io/static/js/453.57978b45.chunk.js",
     "static/media/Us.jpg": "/us.github.io/static/media/Us.6480ca56ace5723c6e5a.jpg",
@@ -14,15 +14,15 @@
     "static/media/Vogue.ttf": "/us.github.io/static/media/Vogue.d74e0a7f6ebb758c47f8.ttf",
     "static/media/Overlay.png": "/us.github.io/static/media/Overlay.a002fd00d4b80fc5297a.png",
     "static/media/Us (3).jpg": "/us.github.io/static/media/Us (3).69486cf2de8693572919.jpg",
-    "static/media/Underlay 2_iPad.png": "/us.github.io/static/media/Underlay 2_iPad.e7ef59a7e31dd8c3007e.png",
     "static/media/Underlay.png": "/us.github.io/static/media/Underlay.dfa1ff2aa6fd88daa1f0.png",
+    "static/media/Underlay 2_iPad.png": "/us.github.io/static/media/Underlay 2_iPad.45ca693401aee076dcbc.png",
     "index.html": "/us.github.io/index.html",
-    "main.7dad7b04.css.map": "/us.github.io/static/css/main.7dad7b04.css.map",
+    "main.9532c4d6.css.map": "/us.github.io/static/css/main.9532c4d6.css.map",
     "main.f7cbcd4f.js.map": "/us.github.io/static/js/main.f7cbcd4f.js.map",
     "453.57978b45.chunk.js.map": "/us.github.io/static/js/453.57978b45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dad7b04.css",
+    "static/css/main.9532c4d6.css",
     "static/js/main.f7cbcd4f.js"
   ]
 }
