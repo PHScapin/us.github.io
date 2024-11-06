@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/us.github.io/static/css/main.19f463eb.css",
-    "main.js": "/us.github.io/static/js/main.f7cbcd4f.js",
+    "main.js": "/us.github.io/static/js/main.9daa440a.js",
     "static/js/453.57978b45.chunk.js": "/us.github.io/static/js/453.57978b45.chunk.js",
+    "static/media/Para o meu amor.mp3": "/us.github.io/static/media/Para o meu amor.c50409085396bccb9c4d.mp3",
     "static/media/Us.jpg": "/us.github.io/static/media/Us.6480ca56ace5723c6e5a.jpg",
     "static/media/Us (1).jpg": "/us.github.io/static/media/Us (1).133d0a8e69430dfd2b6c.jpg",
     "static/media/Daylight.mp3": "/us.github.io/static/media/Daylight.65f00950f7c4394f162e.mp3",
@@ -18,11 +19,11 @@
     "static/media/Underlay 2_iPad.png": "/us.github.io/static/media/Underlay 2_iPad.abde933fa52340c6d518.png",
     "index.html": "/us.github.io/index.html",
     "main.19f463eb.css.map": "/us.github.io/static/css/main.19f463eb.css.map",
-    "main.f7cbcd4f.js.map": "/us.github.io/static/js/main.f7cbcd4f.js.map",
+    "main.9daa440a.js.map": "/us.github.io/static/js/main.9daa440a.js.map",
     "453.57978b45.chunk.js.map": "/us.github.io/static/js/453.57978b45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19f463eb.css",
-    "static/js/main.f7cbcd4f.js"
+    "static/js/main.9daa440a.js"
   ]
 }
