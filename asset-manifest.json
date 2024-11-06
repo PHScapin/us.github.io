@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/us.github.io/static/css/main.5948d2b1.css",
+    "main.css": "/us.github.io/static/css/main.7dad7b04.css",
     "main.js": "/us.github.io/static/js/main.f7cbcd4f.js",
     "static/js/453.57978b45.chunk.js": "/us.github.io/static/js/453.57978b45.chunk.js",
     "static/media/Us.jpg": "/us.github.io/static/media/Us.6480ca56ace5723c6e5a.jpg",
@@ -9,20 +9,20 @@
     "static/media/Acerola.mp3": "/us.github.io/static/media/Acerola.2c5a04ca8c665fd810d6.mp3",
     "static/media/Vinyl.png": "/us.github.io/static/media/Vinyl.9fd85ef3e5c1d6a6cfdc.png",
     "static/media/Overlay 2.png": "/us.github.io/static/media/Overlay 2.b15ff77ca605330f2ff1.png",
-    "static/media/Overlay 2_iPad.png": "/us.github.io/static/media/Overlay 2_iPad.0bc45643a01f678e6704.png",
+    "static/media/Overlay 2_iPad.png": "/us.github.io/static/media/Overlay 2_iPad.9cf45c25072c0df7224c.png",
     "static/media/Us (2).jpg": "/us.github.io/static/media/Us (2).74dfbfb5a608de59de77.jpg",
     "static/media/Vogue.ttf": "/us.github.io/static/media/Vogue.d74e0a7f6ebb758c47f8.ttf",
     "static/media/Overlay.png": "/us.github.io/static/media/Overlay.a002fd00d4b80fc5297a.png",
     "static/media/Us (3).jpg": "/us.github.io/static/media/Us (3).69486cf2de8693572919.jpg",
-    "static/media/Underlay 2_iPad.png": "/us.github.io/static/media/Underlay 2_iPad.dfa1ff2aa6fd88daa1f0.png",
+    "static/media/Underlay 2_iPad.png": "/us.github.io/static/media/Underlay 2_iPad.e7ef59a7e31dd8c3007e.png",
     "static/media/Underlay.png": "/us.github.io/static/media/Underlay.dfa1ff2aa6fd88daa1f0.png",
     "index.html": "/us.github.io/index.html",
-    "main.5948d2b1.css.map": "/us.github.io/static/css/main.5948d2b1.css.map",
+    "main.7dad7b04.css.map": "/us.github.io/static/css/main.7dad7b04.css.map",
     "main.f7cbcd4f.js.map": "/us.github.io/static/js/main.f7cbcd4f.js.map",
     "453.57978b45.chunk.js.map": "/us.github.io/static/js/453.57978b45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5948d2b1.css",
+    "static/css/main.7dad7b04.css",
     "static/js/main.f7cbcd4f.js"
   ]
 }
