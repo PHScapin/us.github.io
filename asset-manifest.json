@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/PHScapin/us.github.io/static/css/main.fa726bfe.css",
-    "main.js": "/PHScapin/us.github.io/static/js/main.d8acd70c.js",
-    "static/js/453.57978b45.chunk.js": "/PHScapin/us.github.io/static/js/453.57978b45.chunk.js",
-    "static/media/Us.jpg": "/PHScapin/us.github.io/static/media/Us.6480ca56ace5723c6e5a.jpg",
-    "static/media/Us (1).jpg": "/PHScapin/us.github.io/static/media/Us (1).133d0a8e69430dfd2b6c.jpg",
-    "static/media/Daylight.mp3": "/PHScapin/us.github.io/static/media/Daylight.65f00950f7c4394f162e.mp3",
-    "static/media/Acerola.mp3": "/PHScapin/us.github.io/static/media/Acerola.2c5a04ca8c665fd810d6.mp3",
-    "static/media/Vinyl.png": "/PHScapin/us.github.io/static/media/Vinyl.9fd85ef3e5c1d6a6cfdc.png",
-    "static/media/Overlay 2.png": "/PHScapin/us.github.io/static/media/Overlay 2.b15ff77ca605330f2ff1.png",
-    "static/media/Overlay 2_iPad.png": "/PHScapin/us.github.io/static/media/Overlay 2_iPad.0bc45643a01f678e6704.png",
-    "static/media/Us (2).jpg": "/PHScapin/us.github.io/static/media/Us (2).74dfbfb5a608de59de77.jpg",
-    "static/media/Vogue.ttf": "/PHScapin/us.github.io/static/media/Vogue.d74e0a7f6ebb758c47f8.ttf",
-    "static/media/Overlay.png": "/PHScapin/us.github.io/static/media/Overlay.a002fd00d4b80fc5297a.png",
-    "static/media/Us (3).jpg": "/PHScapin/us.github.io/static/media/Us (3).69486cf2de8693572919.jpg",
-    "static/media/Underlay.png": "/PHScapin/us.github.io/static/media/Underlay.dfa1ff2aa6fd88daa1f0.png",
-    "index.html": "/PHScapin/us.github.io/index.html",
-    "main.fa726bfe.css.map": "/PHScapin/us.github.io/static/css/main.fa726bfe.css.map",
-    "main.d8acd70c.js.map": "/PHScapin/us.github.io/static/js/main.d8acd70c.js.map",
-    "453.57978b45.chunk.js.map": "/PHScapin/us.github.io/static/js/453.57978b45.chunk.js.map"
+    "main.css": "/us.github.io/static/css/main.563371cf.css",
+    "main.js": "/us.github.io/static/js/main.f7cbcd4f.js",
+    "static/js/453.57978b45.chunk.js": "/us.github.io/static/js/453.57978b45.chunk.js",
+    "static/media/Us.jpg": "/us.github.io/static/media/Us.6480ca56ace5723c6e5a.jpg",
+    "static/media/Us (1).jpg": "/us.github.io/static/media/Us (1).133d0a8e69430dfd2b6c.jpg",
+    "static/media/Daylight.mp3": "/us.github.io/static/media/Daylight.65f00950f7c4394f162e.mp3",
+    "static/media/Acerola.mp3": "/us.github.io/static/media/Acerola.2c5a04ca8c665fd810d6.mp3",
+    "static/media/Vinyl.png": "/us.github.io/static/media/Vinyl.9fd85ef3e5c1d6a6cfdc.png",
+    "static/media/Overlay 2.png": "/us.github.io/static/media/Overlay 2.b15ff77ca605330f2ff1.png",
+    "static/media/Overlay 2_iPad.png": "/us.github.io/static/media/Overlay 2_iPad.0bc45643a01f678e6704.png",
+    "static/media/Us (2).jpg": "/us.github.io/static/media/Us (2).74dfbfb5a608de59de77.jpg",
+    "static/media/Vogue.ttf": "/us.github.io/static/media/Vogue.d74e0a7f6ebb758c47f8.ttf",
+    "static/media/Overlay.png": "/us.github.io/static/media/Overlay.a002fd00d4b80fc5297a.png",
+    "static/media/Us (3).jpg": "/us.github.io/static/media/Us (3).69486cf2de8693572919.jpg",
+    "static/media/Underlay.png": "/us.github.io/static/media/Underlay.dfa1ff2aa6fd88daa1f0.png",
+    "index.html": "/us.github.io/index.html",
+    "main.563371cf.css.map": "/us.github.io/static/css/main.563371cf.css.map",
+    "main.f7cbcd4f.js.map": "/us.github.io/static/js/main.f7cbcd4f.js.map",
+    "453.57978b45.chunk.js.map": "/us.github.io/static/js/453.57978b45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa726bfe.css",
-    "static/js/main.d8acd70c.js"
+    "static/css/main.563371cf.css",
+    "static/js/main.f7cbcd4f.js"
   ]
 }
