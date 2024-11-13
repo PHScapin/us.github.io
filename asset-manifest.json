@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/us.github.io/static/css/main.19f463eb.css",
-    "main.js": "/us.github.io/static/js/main.9daa440a.js",
+    "main.css": "/us.github.io/static/css/main.569e58f2.css",
+    "main.js": "/us.github.io/static/js/main.5fa65082.js",
     "static/js/453.57978b45.chunk.js": "/us.github.io/static/js/453.57978b45.chunk.js",
     "static/media/Para o meu amor.mp3": "/us.github.io/static/media/Para o meu amor.c50409085396bccb9c4d.mp3",
     "static/media/Us.jpg": "/us.github.io/static/media/Us.6480ca56ace5723c6e5a.jpg",
@@ -11,19 +11,26 @@
     "static/media/Vinyl.png": "/us.github.io/static/media/Vinyl.9fd85ef3e5c1d6a6cfdc.png",
     "static/media/Overlay 2.png": "/us.github.io/static/media/Overlay 2.b15ff77ca605330f2ff1.png",
     "static/media/Overlay 2_iPad.png": "/us.github.io/static/media/Overlay 2_iPad.9cf45c25072c0df7224c.png",
+    "static/media/Desenhos.png": "/us.github.io/static/media/Desenhos.00322bd79d4299467dde.png",
     "static/media/Us (2).jpg": "/us.github.io/static/media/Us (2).74dfbfb5a608de59de77.jpg",
     "static/media/Vogue.ttf": "/us.github.io/static/media/Vogue.d74e0a7f6ebb758c47f8.ttf",
+    "static/media/Underlay_login.png": "/us.github.io/static/media/Underlay_login.031beccdcfa9449f3c03.png",
+    "static/media/Loja_underlay.png": "/us.github.io/static/media/Loja_underlay.d0dbf73e286d8c903e6b.png",
     "static/media/Overlay.png": "/us.github.io/static/media/Overlay.a002fd00d4b80fc5297a.png",
     "static/media/Us (3).jpg": "/us.github.io/static/media/Us (3).69486cf2de8693572919.jpg",
+    "static/media/Filmes.png": "/us.github.io/static/media/Filmes.985ffa1796f75b8c2c8a.png",
     "static/media/Underlay.png": "/us.github.io/static/media/Underlay.dfa1ff2aa6fd88daa1f0.png",
+    "static/media/Músicas.png": "/us.github.io/static/media/Músicas.62048513a4a86f6cc30d.png",
     "static/media/Underlay 2_iPad.png": "/us.github.io/static/media/Underlay 2_iPad.abde933fa52340c6d518.png",
+    "static/media/Comprinhas.png": "/us.github.io/static/media/Comprinhas.a0ac9356ed842dfbf63e.png",
+    "static/media/Google-icon.png": "/us.github.io/static/media/Google-icon.e12914ad8afda3f6f2e8.png",
     "index.html": "/us.github.io/index.html",
-    "main.19f463eb.css.map": "/us.github.io/static/css/main.19f463eb.css.map",
-    "main.9daa440a.js.map": "/us.github.io/static/js/main.9daa440a.js.map",
+    "main.569e58f2.css.map": "/us.github.io/static/css/main.569e58f2.css.map",
+    "main.5fa65082.js.map": "/us.github.io/static/js/main.5fa65082.js.map",
     "453.57978b45.chunk.js.map": "/us.github.io/static/js/453.57978b45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19f463eb.css",
-    "static/js/main.9daa440a.js"
+    "static/css/main.569e58f2.css",
+    "static/js/main.5fa65082.js"
   ]
 }
