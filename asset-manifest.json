@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/us.github.io/static/css/main.68597f3a.css",
-    "main.js": "/us.github.io/static/js/main.c30a803c.js",
+    "main.js": "/us.github.io/static/js/main.d850a5b7.js",
     "static/js/453.57978b45.chunk.js": "/us.github.io/static/js/453.57978b45.chunk.js",
     "static/media/Para o meu amor.mp3": "/us.github.io/static/media/Para o meu amor.c50409085396bccb9c4d.mp3",
     "static/media/Overlay_Snow.gif": "/us.github.io/static/media/Overlay_Snow.b7e913847a05a52416a5.gif",
@@ -33,11 +33,11 @@
     "static/media/Google-icon.png": "/us.github.io/static/media/Google-icon.e12914ad8afda3f6f2e8.png",
     "index.html": "/us.github.io/index.html",
     "main.68597f3a.css.map": "/us.github.io/static/css/main.68597f3a.css.map",
-    "main.c30a803c.js.map": "/us.github.io/static/js/main.c30a803c.js.map",
+    "main.d850a5b7.js.map": "/us.github.io/static/js/main.d850a5b7.js.map",
     "453.57978b45.chunk.js.map": "/us.github.io/static/js/453.57978b45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68597f3a.css",
-    "static/js/main.c30a803c.js"
+    "static/js/main.d850a5b7.js"
   ]
 }
