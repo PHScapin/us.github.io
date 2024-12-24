@@ -1,38 +1,40 @@
 {
   "files": {
-    "main.css": "/us.github.io/static/css/main.76d15bbb.css",
-    "main.js": "/us.github.io/static/js/main.3cd0db16.js",
+    "main.css": "/us.github.io/static/css/main.ee9b3fcd.css",
+    "main.js": "/us.github.io/static/js/main.69a0cba5.js",
     "static/js/453.57978b45.chunk.js": "/us.github.io/static/js/453.57978b45.chunk.js",
     "static/media/Para o meu amor.mp3": "/us.github.io/static/media/Para o meu amor.c50409085396bccb9c4d.mp3",
     "static/media/Overlay_Snow.gif": "/us.github.io/static/media/Overlay_Snow.b7e913847a05a52416a5.gif",
     "static/media/Us.jpg": "/us.github.io/static/media/Us.6480ca56ace5723c6e5a.jpg",
+    "static/media/Overlay_final.png": "/us.github.io/static/media/Overlay_final.bb9ab19a5f56f67098c4.png",
     "static/media/Us (1).jpg": "/us.github.io/static/media/Us (1).133d0a8e69430dfd2b6c.jpg",
     "static/media/Daylight.mp3": "/us.github.io/static/media/Daylight.65f00950f7c4394f162e.mp3",
+    "static/media/Overlay_carta.png": "/us.github.io/static/media/Overlay_carta.8fb6cab1c2e04c2cff4d.png",
     "static/media/Acerola.mp3": "/us.github.io/static/media/Acerola.2c5a04ca8c665fd810d6.mp3",
     "static/media/Overlay_Natal_Home.png": "/us.github.io/static/media/Overlay_Natal_Home.c08e580930e255ea9f82.png",
     "static/media/Vinyl.png": "/us.github.io/static/media/Vinyl.9fd85ef3e5c1d6a6cfdc.png",
     "static/media/Overlay 2.png": "/us.github.io/static/media/Overlay 2.b15ff77ca605330f2ff1.png",
     "static/media/Overlay 2_iPad.png": "/us.github.io/static/media/Overlay 2_iPad.9cf45c25072c0df7224c.png",
     "static/media/Desenhos.png": "/us.github.io/static/media/Desenhos.00322bd79d4299467dde.png",
+    "static/media/Overlay_quiz.png": "/us.github.io/static/media/Overlay_quiz.7c133a2a0ae0d0586a68.png",
     "static/media/Us (2).jpg": "/us.github.io/static/media/Us (2).74dfbfb5a608de59de77.jpg",
     "static/media/Vogue.ttf": "/us.github.io/static/media/Vogue.d74e0a7f6ebb758c47f8.ttf",
     "static/media/Underlay_login.png": "/us.github.io/static/media/Underlay_login.031beccdcfa9449f3c03.png",
     "static/media/Loja_underlay.png": "/us.github.io/static/media/Loja_underlay.d0dbf73e286d8c903e6b.png",
     "static/media/Us (3).jpg": "/us.github.io/static/media/Us (3).69486cf2de8693572919.jpg",
     "static/media/Filmes.png": "/us.github.io/static/media/Filmes.985ffa1796f75b8c2c8a.png",
-    "static/media/Loja_underlay_iPad.png": "/us.github.io/static/media/Loja_underlay_iPad.5446e28ac627aaa135ac.png",
     "static/media/Underlay.png": "/us.github.io/static/media/Underlay.c192dc0b97c6eb6a492a.png",
     "static/media/Músicas.png": "/us.github.io/static/media/Músicas.62048513a4a86f6cc30d.png",
     "static/media/Underlay 2_iPad.png": "/us.github.io/static/media/Underlay 2_iPad.abde933fa52340c6d518.png",
     "static/media/Comprinhas.png": "/us.github.io/static/media/Comprinhas.a0ac9356ed842dfbf63e.png",
     "static/media/Google-icon.png": "/us.github.io/static/media/Google-icon.e12914ad8afda3f6f2e8.png",
     "index.html": "/us.github.io/index.html",
-    "main.76d15bbb.css.map": "/us.github.io/static/css/main.76d15bbb.css.map",
-    "main.3cd0db16.js.map": "/us.github.io/static/js/main.3cd0db16.js.map",
+    "main.ee9b3fcd.css.map": "/us.github.io/static/css/main.ee9b3fcd.css.map",
+    "main.69a0cba5.js.map": "/us.github.io/static/js/main.69a0cba5.js.map",
     "453.57978b45.chunk.js.map": "/us.github.io/static/js/453.57978b45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76d15bbb.css",
-    "static/js/main.3cd0db16.js"
+    "static/css/main.ee9b3fcd.css",
+    "static/js/main.69a0cba5.js"
   ]
 }
