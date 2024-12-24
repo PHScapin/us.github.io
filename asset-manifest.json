@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/us.github.io/static/css/main.ee9b3fcd.css",
+    "main.css": "/us.github.io/static/css/main.edb4eb10.css",
     "main.js": "/us.github.io/static/js/main.7b7d52bd.js",
     "static/js/453.57978b45.chunk.js": "/us.github.io/static/js/453.57978b45.chunk.js",
     "static/media/Para o meu amor.mp3": "/us.github.io/static/media/Para o meu amor.c50409085396bccb9c4d.mp3",
@@ -11,10 +11,13 @@
     "static/media/Us (1).jpg": "/us.github.io/static/media/Us (1).133d0a8e69430dfd2b6c.jpg",
     "static/media/Daylight.mp3": "/us.github.io/static/media/Daylight.65f00950f7c4394f162e.mp3",
     "static/media/Overlay_carta.png": "/us.github.io/static/media/Overlay_carta.8fb6cab1c2e04c2cff4d.png",
+    "static/media/Overlay_carta_iPad.png": "/us.github.io/static/media/Overlay_carta_iPad.c079da7af11bd57cc991.png",
     "static/media/Acerola.mp3": "/us.github.io/static/media/Acerola.2c5a04ca8c665fd810d6.mp3",
     "static/media/Overlay_Natal_Home.png": "/us.github.io/static/media/Overlay_Natal_Home.c08e580930e255ea9f82.png",
     "static/media/Vinyl.png": "/us.github.io/static/media/Vinyl.9fd85ef3e5c1d6a6cfdc.png",
     "static/media/Overlay 2.png": "/us.github.io/static/media/Overlay 2.b15ff77ca605330f2ff1.png",
+    "static/media/Overlay_final_iPad.png": "/us.github.io/static/media/Overlay_final_iPad.4f0b84f5db718553407f.png",
+    "static/media/Overlay_quiz_iPad.png": "/us.github.io/static/media/Overlay_quiz_iPad.4f0b84f5db718553407f.png",
     "static/media/Overlay 2_iPad.png": "/us.github.io/static/media/Overlay 2_iPad.9cf45c25072c0df7224c.png",
     "static/media/Desenhos.png": "/us.github.io/static/media/Desenhos.00322bd79d4299467dde.png",
     "static/media/Overlay_quiz.png": "/us.github.io/static/media/Overlay_quiz.7c133a2a0ae0d0586a68.png",
@@ -30,12 +33,12 @@
     "static/media/Comprinhas.png": "/us.github.io/static/media/Comprinhas.a0ac9356ed842dfbf63e.png",
     "static/media/Google-icon.png": "/us.github.io/static/media/Google-icon.e12914ad8afda3f6f2e8.png",
     "index.html": "/us.github.io/index.html",
-    "main.ee9b3fcd.css.map": "/us.github.io/static/css/main.ee9b3fcd.css.map",
+    "main.edb4eb10.css.map": "/us.github.io/static/css/main.edb4eb10.css.map",
     "main.7b7d52bd.js.map": "/us.github.io/static/js/main.7b7d52bd.js.map",
     "453.57978b45.chunk.js.map": "/us.github.io/static/js/453.57978b45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee9b3fcd.css",
+    "static/css/main.edb4eb10.css",
     "static/js/main.7b7d52bd.js"
   ]
 }
