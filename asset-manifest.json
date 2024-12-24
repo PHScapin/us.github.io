@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/us.github.io/static/css/main.edb4eb10.css",
+    "main.css": "/us.github.io/static/css/main.68597f3a.css",
     "main.js": "/us.github.io/static/js/main.7b7d52bd.js",
     "static/js/453.57978b45.chunk.js": "/us.github.io/static/js/453.57978b45.chunk.js",
     "static/media/Para o meu amor.mp3": "/us.github.io/static/media/Para o meu amor.c50409085396bccb9c4d.mp3",
@@ -33,12 +33,12 @@
     "static/media/Comprinhas.png": "/us.github.io/static/media/Comprinhas.a0ac9356ed842dfbf63e.png",
     "static/media/Google-icon.png": "/us.github.io/static/media/Google-icon.e12914ad8afda3f6f2e8.png",
     "index.html": "/us.github.io/index.html",
-    "main.edb4eb10.css.map": "/us.github.io/static/css/main.edb4eb10.css.map",
+    "main.68597f3a.css.map": "/us.github.io/static/css/main.68597f3a.css.map",
     "main.7b7d52bd.js.map": "/us.github.io/static/js/main.7b7d52bd.js.map",
     "453.57978b45.chunk.js.map": "/us.github.io/static/js/453.57978b45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.edb4eb10.css",
+    "static/css/main.68597f3a.css",
     "static/js/main.7b7d52bd.js"
   ]
 }
